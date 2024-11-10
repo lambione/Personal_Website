@@ -8,9 +8,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div className="m-auto inset-0 justify-center w-5/6">
       <App />
-    </div>
   </React.StrictMode>
 );
 
